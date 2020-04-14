@@ -1,3 +1,5 @@
 Hello, this is chapter 2. Lets see if it really works. 
 
 Made some additions , lets call it musical. 
+
+Made actual changes to chapter 2 in musical theme branch
